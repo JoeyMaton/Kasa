@@ -1,0 +1,12 @@
+.nav-header {
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+    font-size: 26px;
+    font-family: "Montserrat", sans-serif;
+    
+}
+
+.nav-header a {
+    color: black;
+}
